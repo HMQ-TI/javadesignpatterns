@@ -1,14 +1,15 @@
 # javadesignpatterns
 Java Design Patterns Examples
+3 Categories:
 
-CREACIONALES
+*CREACIONALES
 FactoryMethod
 AbstractFactory
 Builder
 Prototype
 Singleton
 
-COMPORTAMIENTO
+*COMPORTAMIENTO
 ChainOfResponsability
 Command
 Iterator
@@ -21,7 +22,7 @@ Strategy
 TemplateMethod
 Visitor
 
-STRUCTURAL
+*STRUCTURAL
 Adapter
 Bridge
 Composite
